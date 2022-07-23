@@ -6,4 +6,5 @@
 ### referencia:
 <img src= "spider.jpg" width="300" height= "300" alt="">
 
+#### para el terreno utilice las texturas de a dogs life software Outdoor Ground Textures
 
